@@ -1,0 +1,30 @@
+header {
+    @include verticalCenter;
+    flex-direction: column;
+    padding-top: 1rem;
+
+    h1 {
+        font-variation-settings: "wght" 600;
+        color: $color-russian-green;
+    }
+
+    .input-search {
+        margin: 1rem;
+        padding: .5rem 0 .5rem 0;
+        text-align: center;
+        color: $color-raisin-black;
+        border: 1.5px solid $color-raisin-black;
+        border-radius: .5rem;
+        font-size: 1rem;
+
+        &::placeholder {
+            color: $color-raisin-black;
+            opacity: 0.5;
+        }
+
+        &:focus { 
+            outline: 1px $color-russian-green solid !important;
+            border: 1.5px solid $color-russian-green;
+         }
+    }
+}

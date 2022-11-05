@@ -1,0 +1,9 @@
+footer {
+    background-color: $color-russian-green;
+    color: $color-cultured;
+    height: 5rem;
+    width: 100%;
+    font-variation-settings: "wght" 500;
+    padding: 1rem;
+    @include verticalCenter;
+}
