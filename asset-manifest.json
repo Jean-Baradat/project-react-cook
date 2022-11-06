@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/project-react-cook/static/css/main.a48d7c26.css",
-    "main.js": "/project-react-cook/static/js/main.70b23177.js",
+    "main.js": "/project-react-cook/static/js/main.01e4241e.js",
     "index.html": "/project-react-cook/index.html",
     "main.a48d7c26.css.map": "/project-react-cook/static/css/main.a48d7c26.css.map",
-    "main.70b23177.js.map": "/project-react-cook/static/js/main.70b23177.js.map"
+    "main.01e4241e.js.map": "/project-react-cook/static/js/main.01e4241e.js.map"
   },
   "entrypoints": [
     "static/css/main.a48d7c26.css",
-    "static/js/main.70b23177.js"
+    "static/js/main.01e4241e.js"
   ]
 }
